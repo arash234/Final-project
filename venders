@@ -1,3 +1,6 @@
+<html>
+<head>
+<title>subbmit</title>
 <div id="menu" class="menu app-menu">
 <div class="menu-wrapper">
         <div class="menu-wrapper-align">
@@ -102,3 +105,6 @@
 </div>
     <div class="tabsHeader__backdrop app-header-backdrop" style="display: block;"></div>
 </div>
+
+</head>
+</html>
