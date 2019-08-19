@@ -1,0 +1,105 @@
+
+<html>
+<head>
+<title>home page</title>
+<style>
+* {
+margin:0px;
+padding:0px;
+}
+body{
+background-image:url("abc.jpg");
+}
+#a {
+background-image:url("abc.jpg");
+height:200px;
+width:700%;
+font-size:40;
+font-weight:bold;
+line-height:100px;
+text-align:center;
+letter-spacing:3px;
+magin-top:-50px;
+color:firebrick;
+}
+#a ul li {
+background-color:firebrick;
+width:200px;
+height:60px;
+border:2px solid;
+line-height:70px;
+border-radius:30px;
+text-align:center;
+margin-top:15px;
+position:fixed;
+}
+a ul li a{
+text-decoration:none;
+color:red;
+}
+background-image:url("th1UE4FWG6.jpg");
+width:400px;
+height:800px;
+margin-top:6px;
+margin-left:470px;
+}
+#bu {
+border:2px;
+background-color:white;
+font-size:20px;
+margin-left:550px;
+width:200px;
+height:40px;
+margin-top:65px;
+border-radius:10px;
+line-height:40px;
+}
+#bu a{
+text-decoration:none;
+color:white;}
+#b {
+width:346px;
+height:300px;
+border:2px solid;
+margin-top:-60px;
+background-image:url("images (2).jpg");
+}
+margin-left:60px;}
+</style>
+</head>
+<div id="a">
+<ul>
+<li><a href="raman.html">HOME</li></a>
+</ul>
+<h1>
+</h1>
+</div>
+<table>
+<form>
+<tr>
+</th>
+</tr>
+<tr>
+<th>PHONE NO   :<br><br><br></th>
+</tr>
+<tr>
+<th>UID      :<br><br><br></th>
+</tr>
+</table>
+<h1>-------------------------------------</h1><br>
+<table>
+<tr>
+</select><br><br>
+</th>
+</tr>
+<tr
+</select>
+</th>
+</tr>
+</form>
+</table>
+<button id="bu"><a href="subbmit.html">PROCEED</a></button>
+</body>
+</html>
+© 2019 GitHub, Inc.
+
