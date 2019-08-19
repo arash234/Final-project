@@ -1,0 +1,106 @@
+<div id="menu" class="menu app-menu">
+    <div class="menu-wrapper">
+        <div class="menu-wrapper-align">
+            <div class="pure-g-r">
+                <div class="pure-u-1-5 main-logo">
+                                        <a title="Weddings" href="https://www.weddingwire.ca">
+                        <img alt="Weddings" src="https://cdn1.weddingwire.ca/assets/img/logos/gen_logoHeader.svg">
+                    </a>
+                </div>
+                <div class="pure-u-4-5">
+                                            <div class="app-common-header-container" id="nav-main" role="navigation">
+                                                            <ul class="nav-main">
+    <li class="nav-main-item">
+        <a class="nav-main-link app-header-tab" data-tab="miboda" href="https://www.weddingwire.ca/my-wedding-planner">Planning Tools</a>
+    </li>
+    <li class="nav-main-item">
+                    <a class="nav-main-link app-header-tab active" data-tab="banquetes" href="https://www.weddingwire.ca/wedding-venues">Wedding Venues</a>
+            </li>
+    <li class="nav-main-item">
+        <a class="nav-main-link app-header-tab" data-tab="proveedores" href="https://www.weddingwire.ca/wedding-vendors">Wedding Vendors</a>
+    </li>
+    <li class="nav-main-item nav-tabBrides">
+        <a class="nav-main-link app-header-tab" data-tab="novias" href="https://www.weddingwire.ca/brides">Brides</a>
+    </li>
+    <li class="nav-main-item nav-tabGrooms">
+        <a class="nav-main-link app-header-tab" data-tab="novios" href="https://www.weddingwire.ca/grooms">Grooms</a>
+    </li>
+            <li class="nav-main-item">
+            <a class="nav-main-link app-header-tab show-caret-aside" data-tab="catalogo" href="https://www.weddingwire.ca/wedding-dress">Dresses</a>
+        </li>
+                <li class="nav-main-item">
+            <a class="nav-main-link app-header-tab" data-tab="contenidos" href="https://www.weddingwire.ca/wedding-ideas">Wedding&nbsp;Ideas</a>
+        </li>
+                <li class="nav-main-item">
+            <a class="nav-main-link app-header-tab" data-tab="comunidad" href="https://www.weddingwire.ca/community">Community</a>
+        </li>
+    </ul>
+                                                    </div>
+                    
+                                            
+<div class="header-join">
+    <a class="header-join-link" rel="nofollow" href="https://www.weddingwire.ca/users-login.php">Log in</a>
+    <a class="header-join-link app-ua-track-event" rel="nofollow" href="https://www.weddingwire.ca/users-signup.php" data-track-c="SignUpTracking" data-track-a="a-step1" data-track-l="d-desktop+s-site_header" data-track-v="0" data-track-ni="0">
+        Sign up    </a>
+</div>
+                    
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="tabsHeader app-common-header-dropdown" style="display: block;"><div class="wrapper wrapper--blood">
+    <div class="pure-g">
+        <div class="pure-u-3-4">
+            <div class="pure-g">
+                <div class="pure-u-1-2 pure-u-2-3">
+                    <a class="tabsHeader__title" href="https://www.weddingwire.ca/wedding-venues">Wedding Venues</a>
+                    <ul class="pure-g">
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/hotel-weddings">Hotel Weddings</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/park-weddings">Park Weddings</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/restaurant-weddings">Restaurant Weddings</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/winery-weddings">Winery Weddings</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/farm-weddings">Farm Weddings</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/mansion-weddings">Mansion Weddings</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/wedding-banquet-halls">Wedding Banquet Halls</a>
+                            </li>
+                                                    <li class="pure-u-1-2">
+                                <a class="tabsHeaderList__item" rel="nofollow" href="https://www.weddingwire.ca/castle-wedding">Castle wedding</a>
+                            </li>
+                                            </ul>
+                </div>
+                            </div>
+        </div>
+        <div class="pure-u-1-4 tabsHeaderBanner__container">
+            <div class="tabsHeaderBannerPromo mb20 app-link" data-href="https://www.weddingwire.ca/promotions/wedding-venues">
+                <div class="tabsHeaderBannerPromo__content">
+                    <p class="tabsHeaderBannerPromo__title">Deals</p>
+                    <p class="tabsHeaderBannerPromo__subtitle">Don't miss out on these amazing local deals</p>
+                </div>
+                <i class="icon-header icon-header-discount"></i>
+            </div>
+                            <div class="tabsHeaderBanner tabsHeaderBanner--contest app-link" data-href="https://www.weddingwire.ca/contest">
+                    <img class="tabsHeaderBanner__image" src="https://cdn1.weddingwire.ca/assets/img/dropdown/contest.jpg" alt="">
+                    <div class="tabsHeaderBanner__content">
+                        <p class="tabsHeaderBanner__title">Win $1,000</p>
+                        <p class="tabsHeaderBanner__subtitle">Earn entries and participate in our monthly contest.</p>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+</div>
+    <div class="tabsHeader__backdrop app-header-backdrop" style="display: block;"></div>
+</div>
